@@ -27,6 +27,8 @@ Solarized One is a blend of neutral beauty of Atom One with the structure of Sol
 
 ![Screenshot 2024-09-14 at 5 41 20 PM](https://github.com/user-attachments/assets/5b84014d-4489-4150-97d8-308bdec56754)
 
+### Rust
+
 ![Screenshot 2024-09-14 at 5 41 24 PM](https://github.com/user-attachments/assets/b7892eec-42d5-4f96-b6b8-f09e9c7dace5)
 
 ## Source
